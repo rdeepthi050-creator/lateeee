@@ -20,9 +20,10 @@ export default function Screen3({ onNext }) {
             <div className="space-y-4">
                 <h1 className="text-2xl font-semibold text-slate-200">
                     It's fine... I can't stay mad at you
+                    because again AP THO MERI BIWI HOOO;)
                 </h1>
                 <p className="text-lg text-slate-400 font-medium leading-relaxed">
-                    Because you're finally here. And I made this while I was staring at my screen waiting for you.
+                    And yea you're finally here. And I made this while I was staring at my screen waiting for YOUUUUU.
                 </p>
             </div>
             <button
